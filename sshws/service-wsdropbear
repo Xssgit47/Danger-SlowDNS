@@ -1,5 +1,5 @@
 [Unit]
-Description=Websocket-OpenSSH By SakuraV3
+Description=Websocket-OpenSSH By FNxDANGER
 Documentation=https://google.com
 After=network.target nss-lookup.target
 
